@@ -1,0 +1,9 @@
+name: erItemClear
+version: '${version}'
+main: net.erskrayy.eritemclear.BetterItemClear
+api-version: '1.21'
+commands:
+  eritemclear:
+    description: Команда управления ErItemClear
+    permission: eritemclear.admin
+    aliases: [eic]
